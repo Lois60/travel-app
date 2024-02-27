@@ -1,0 +1,23 @@
+.header{
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.header .logo{
+    margin-top: 20px;
+   
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+}
+ul li{
+    color: white;
+    list-style: none;
+    text-align: center;
+    
+}
